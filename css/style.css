@@ -40,3 +40,21 @@
 body {
   background-color: rgb(230, 230, 230);
 }
+
+main {
+  margin: auto;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer {
+  text-align: center;
+}
+
+main ul {
+  list-style: none;
+}
+
+table {
+  margin: auto;
+}
